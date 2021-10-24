@@ -63,11 +63,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkThunder99/150-Commands-Bot.git"
+    "url": "git+https://github.com/MrVenomYT/VenomYT-Discord-Bot.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/DarkThunder99/150-Commands-Bot/issues"
+    "url": "https://github.com/MrVenomYT/VenomYT-Discord-Bot/issues"
   },
-  "homepage": "https://github.com/DarkThunder99/150-Commands-Bot#readme"
+  "homepage": "https://github.com/MrVenomYT/VenomYT-Discord-Bot/#readme"
 }
