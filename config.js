@@ -1,12 +1,13 @@
-exports.PREFIX = '+';
-exports.roleid = "844628971404525648";
-exports.news_API ='bf541a703c084c0ca92e534210be58fc';
+exports.PREFIX = 'your prefix';
+exports.roleid = "your roleid";
+exports.news_API ='news api';
 
-exports.GENIUS_API_KEY= 'Sw_4Q_4-cFo3KBLpXHbre-zYsGz87Cb8KPSaOZm31HH-g7XZOcreVIcce_n1Xmu6';
+exports.GENIUS_API_KEY= 'genius api key';
 
 
 
-exports.giphy_API = 'C6K9cAy9StbZMjIs6GnTA6Em3SGApJtF';
+exports.giphy_API = 'giphy api';
 
-exports.AME_API = 'bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d';
-// exports.DBL_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0IjoxLCJpZCI6IjM2NTk3NTY1NTYwODc0NTk4NSIsImlhdCI6MTU5MDI3NjEwOH0.UESu-Jm9kA_FCpRPSMjVwMGYJmLPxg44g_I7eDz5ZmQ"
+exports.AME_API = 'Your AME API key';
+
+exports.DBL_API_KEY = "your dbl key"
