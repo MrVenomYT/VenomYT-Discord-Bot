@@ -42,7 +42,7 @@
     "ms": "^2.1.2",
     "node": "^16.10.0",
     "node-emoji": "^1.11.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-superfetch": "^0.1.10",
     "npm": "^7.15.1",
     "opusscript": "0.0.7",
