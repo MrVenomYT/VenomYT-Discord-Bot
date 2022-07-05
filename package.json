@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "aki-api": "^5.0.0",
     "amethyste-api": "^1.1.3",
     "axios": "^0.22.0",
